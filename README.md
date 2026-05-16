@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-photo/programmer-with-3d-computer-yellow-code_124008-63.jpg?w=900)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Amanuel Daget</h1>
-<h3 align="center">A Full Stack developer from Ethiopia</h3>
+<h3 align="center">AI & Machine Learning enthusiast and Full Stack developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanueldaget&label=Profile%20views&color=0e75b6&style=flat" alt="amanueldaget" /> </p>
