@@ -25,6 +25,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a>
 
+   <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+
+  <!-- Keras -->
+  <a href="https://keras.io" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  </a>
+
+  <!-- OpenCV -->
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  </a>
+
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -33,6 +53,16 @@
   <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+
+  <!-- Seaborn (no official devicon, using simple logo) -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 
   <!-- Jupyter -->
